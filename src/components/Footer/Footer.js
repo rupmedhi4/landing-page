@@ -28,7 +28,6 @@ export default function Footer() {
                 width="1350" height="484" src="https://www.youtube.com/embed/CRsduKAJfQY" title="জাগীৰোড মহাবিদ্যালয়ৰ অসমীয়া বিভাগৰ ষষ্ঠ ষান্মাসিকৰ দাদা-বা সকলৰ বিদায় সভা🥺❤||আহক চোন চাওঁ ভিডিওটি" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className='w-[90%]'></motion.iframe>
 
 
-
             <div className='flex font-serif  font-bold'>
                 <motion.ul 
                 initial={{ opacity: 0, x: -50 }}
