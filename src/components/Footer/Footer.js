@@ -35,7 +35,7 @@ export default function Footer() {
                 whileInView={{ opacity: 1, x: 0 }}
                 transition={{ duration: 3 }}
                 className='flex flex-col justify-end text-white gap-4 mt-4 text-xl cursor-pointer rounded-full '>
-                    <h2 className='text-[2rem]'>Follow Me</h2>
+                    <h2 className='text-[2rem] mt-12'>Follow Me</h2>
                     <div className='flex justify-evenly text-[1.5rem] '>
                         <li><a href="https://www.instagram.com/sabitamedhi124" target='blank'> <FaInstagram /></a></li>
 
